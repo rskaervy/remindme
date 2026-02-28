@@ -28,3 +28,20 @@ Web-based task reminder application for students to manage assignments and deadl
 
 ## Author
 Riska Erviany
+
+## Screenshots
+
+### Login
+![Login](assets/login.png)
+
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
+### Add Task
+![Add Task](assets/addtask.png)
+
+### Edit Task
+![Edit Task](assets/edittask.png)
+
+### Task Completed
+![Task Done](assets/filetaskdone.png)

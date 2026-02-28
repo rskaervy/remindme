@@ -1,16 +1,30 @@
-# RemindMe
+# RemindMe 📌
+Web-based task reminder application for students to manage assignments and deadlines efficiently.
 
-Simple reminder web app built with PHP & MySQL.
+## Preview
+> Manage tasks, upload assignment files, and receive reminders before deadlines.
 
 ## Features
-- Add reminder
-- Deadline tracking
-- Simple dashboard
+- 🔐 Authentication (Login & Register)
+- 📊 Dashboard statistics (Total, Completed, Pending)
+- ⏰ Deadline reminder alert
+- 📩 Send reminder email
+- 📁 Upload & download assignment files
+- 📝 Task management (Create, edit, delete)
+- 📚 Course & lecturer tracking
 
-## How to run
-1. Install XAMPP
-2. Import database `reminders_app.sql`
-3. Run in localhost/remindme/public
+## Tech Stack
+- PHP (Native)
+- MySQL
+- HTML CSS JavaScript
+- XAMPP (Local Server)
+
+## Installation
+1. Clone repository
+2. Move to `htdocs`
+3. Import database `reminders_app.sql` via phpMyAdmin
+4. Run:  
+   `http://localhost/remindme/public`
 
 ## Author
 Riska Erviany
